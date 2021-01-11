@@ -7,5 +7,5 @@ After you installed the setup open the Windows command prompt. There type "pip i
 After you are finished with setting up python you can open up Valorant and start a custom match. Then open up ValorantAgentLocation.py. 
 If it asks you with which program to open it choose the python launcher. 
 After you have opened it you have five seconds to tab back into Valorant and hover your mouse over the first agent. 
-You can go through the agents from left to right and top to bottom.
+You can go through the agents from left to right and top to bottom. A message box will tell you when you can move on to the next agent.
 
